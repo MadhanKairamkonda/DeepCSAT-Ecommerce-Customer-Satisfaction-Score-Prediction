@@ -227,7 +227,7 @@ FINAL AI VERDICT: UNHAPPY
 Example output after training:
 
 ```
-FINAL DEMO ACCURACY: 91.42%
+FINAL DEMO ACCURACY: 65%
 ```
 
 Classification report example:
@@ -238,7 +238,7 @@ Classification report example:
 Happy           0.92       0.90       0.91       120
 Unhappy         0.90       0.92       0.91       118
 
-accuracy                              0.91       238
+accuracy                              0.65      238
 ```
 
 ---
